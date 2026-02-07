@@ -1,5 +1,5 @@
 site_name: Project Lumina Wiki
-#site_url: https://projectluminawiki.org # Placeholder domain name
+site_url: https://melancholy-dev.github.io/Project-Lumina-Wiki/
 theme:
   name: material
   icon: 
