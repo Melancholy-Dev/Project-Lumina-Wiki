@@ -1,1 +1,2 @@
 - [] Make a Project Lumina logo
+- [] Project Lumina development story
