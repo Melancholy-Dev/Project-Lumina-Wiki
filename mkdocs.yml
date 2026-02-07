@@ -1,0 +1,58 @@
+site_name: Project Lumina Wiki
+#site_url: https://projectluminawiki.org # Placeholder domain name
+theme:
+  name: material
+  icon: 
+    logo: fontawesome/solid/l # Placeholder logo
+  #favicon: logo.ico
+  features:
+    - navigation.footer
+  font:
+    text: Lato
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep purple
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: purple
+      accent: purple
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: "__span"
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/Melancholy-Dev
+    - icon: simple/discord
+      link: https://discord.gg/qR6hWDKmfN
+    - icon: simple/instagram
+      link: https://www.instagram.com/m3l4_nch0ly/
+    - icon: simple/youtube
+      link: https://www.youtube.com/@coetusinteractive
+
+copyright: Copyright &copy 2023 Project Lumina (CC BY-S 4.0)
