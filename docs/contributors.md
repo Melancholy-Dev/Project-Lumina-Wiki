@@ -4,14 +4,16 @@ This project exists thanks to the contributions of the following people:
 
 ## Coetus interactive:
 
-- **Melancholy**: Main maintainer and lead developer.
+- **Melancholy**: Main maintainer and lead developer and designer.
 
-- **Zaffy**: Illustrations and lore.
+- **Zaffy**: Graphic and narrative designer.
 
-- **Clanvictory**: Lore, mechanics and concepts.
+- **Ambit**: Music designer.
 
-- **Ciuffo**: Lore, game mechanics and concepts.
+- **Clanvictory**: Narrative, game mechanics and concept designer.
 
-- **Franz**: Concept design and creation.
+- **Ciuffo**: Narrative, game mechanics and concept designer.
 
-If you contributed and your name is missing, feel free to contact the maintainers or open a pull request on Github
+- **Franz**: Concept design and localization.
+
+If you contributed and your name is missing, feel free to contact the maintainers or open a pull request on Github.
