@@ -2,11 +2,15 @@ site_name: Project Lumina Wiki
 site_url: https://melancholy-dev.github.io/Project-Lumina-Wiki/
 theme:
   name: material
-  icon: 
+  icon:
     logo: fontawesome/solid/l # Placeholder logo
   #favicon: logo.ico
   features:
+    - navigation.sections
     - navigation.footer
+    - navigation.top
+    - toc.follow
+    - search.highlight
   font:
     text: Lato
   palette:
@@ -43,6 +47,16 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Products: products.md
+  - Narrative Universe: Narrative Universe/index.md
+  - Lumina Aeterna: Lumina Aeterna/index.md
+  - Contributors: contributors.md
+  - Wiki Layout Guide: wiki-layout.md
 
 extra:
   social:
@@ -55,4 +69,4 @@ extra:
     - icon: simple/youtube
       link: https://www.youtube.com/@coetusinteractive
 
-copyright: Copyright &copy 2023 Project Lumina (CC BY-S 4.0)
+copyright: Copyright &copy; 2023 Project Lumina (CC BY-SA 4.0)

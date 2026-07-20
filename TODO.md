@@ -1,2 +1,3 @@
-- [] Make a Project Lumina logo
-- [] Project Lumina development story
+- [ ] Make a Project Lumina logo
+- [ ] Write the Project Lumina development story
+- [ ] Integrate written sections into Seals of Lumina

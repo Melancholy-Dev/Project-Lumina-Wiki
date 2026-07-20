@@ -2,18 +2,32 @@
 
 This project exists thanks to the contributions of the following people:
 
-## Coetus interactive:
+## Coetus Interactive
 
-- **Melancholy**: Main maintainer and lead developer and designer.
+- **Melancholy**: main maintainer, lead developer, and designer.
 
-- **Zaffy**: Graphic and narrative designer.
+- **Zaffy**: graphic and narrative designer.
 
-- **Ambit**: Music designer.
+- **Ambit**: music designer.
 
-- **Clanvictory**: Narrative, game mechanics and concept designer.
+- **Ciuffo**: narrative, game mechanics, and concept designer.
 
-- **Ciuffo**: Narrative, game mechanics and concept designer.
+- **Clanvy**: narrative, game mechanics, and concept designer.
 
-- **Franz**: Concept design and localization.
+- **Franz**: concept design and localization.
 
-If you contributed and your name is missing, feel free to contact the maintainers or open a pull request on Github.
+If you contributed and your name is missing, feel free to contact the maintainers or open a pull request on GitHub.
+
+---
+
+## How to help
+
+Applications to join the official team are currently closed, but that may change in the future. Project Lumina is a non-profit project focused on creating enjoyable content and building a passionate community.
+
+Even if you cannot officially join the team right now, there are several ways to help:
+
+- Give feedback and suggestions.
+- Volunteer as a tester for our early releases.
+- Use Project Lumina as inspiration to create your own games, stories, and other works, while crediting the original project.
+- In the future, we may open donations. Even one dollar can make a big difference for a small team like ours.
+- Join the community by making fan-made content, chatting with others, and spreading the word about the project.
