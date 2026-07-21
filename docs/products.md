@@ -29,7 +29,8 @@ The manga is published in English as a free-to-read online release, with limited
 **Links**
 
 - [Read Garden 0 on Manga Plus Creators](https://mangaplus-creators.jp/episodes/5d2607180550440027168580)
-- [Official Discord server](https://discord.gg/tgg7t82D95)
+- [Read Garden 0 on Global Comix](https://globalcomix.com/c/garden-0)
+- [Garden 0 dedicated Discord server](https://discord.gg/tgg7t82D95)
 
 ---
 

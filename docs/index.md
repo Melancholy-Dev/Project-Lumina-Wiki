@@ -6,6 +6,10 @@ The universe and its related contents are mainly created and published by Melanc
 
 To suggest changes to this wiki or contribute with new material, open a pull request on GitHub.
 
+## Project status
+
+Several Project Lumina products are in development, including a tabletop role-playing game, video games, this wiki, and a manga series. Some projects are active, while others are paused until the setting, resources, or team capacity are ready.
+
 ## Start here
 
 - [Products](products.md): games, manga, manuals, and other works connected to Project Lumina.
@@ -13,9 +17,26 @@ To suggest changes to this wiki or contribute with new material, open a pull req
 - [Contributors](contributors.md): the people currently credited for the project.
 - [Wiki layout guide](wiki-layout.md): a reference for writing future pages in a consistent wiki format.
 
-## Project status
+## Official Links
 
-Several Project Lumina products are in development, including a tabletop role-playing game, video games, this wiki, and a manga series. Some projects are active, while others are paused until the setting, resources, or team capacity are ready.
+Official Discord server:
+https://discord.gg/qR6hWDKmfN
+
+GitHub Repositories:
+https://github.com/Melancholy-Dev
+
+Melancholy's Instagram profile:
+https://www.instagram.com/m3l4_nch0ly/
+
+Melancholy's Itch.io page:
+https://melancholydev.itch.io/
+
+Official Instagram profile:
+https://www.instagram.com/coetusinteractive/
+
+Official YouTube channel:
+https://www.youtube.com/@coetusinteractive
+
 
 ## Copyright and license
 
